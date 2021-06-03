@@ -1,0 +1,31 @@
+{
+    "name": "hello-next-js",
+    "version": "1.0.0",
+    "description": "Simple Next JS Starter",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/app-generator/hello-world-next-js.git"
+    },
+    "keywords": [
+        "nextjs",
+        "appseed"
+    ],
+    "author": "AppSeed",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/app-generator/hello-world-next-js/issues"
+    },
+    "homepage": "https://github.com/app-generator/hello-world-next-js#readme",
+    "dependencies": {
+        "next": "^10.2.3",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    }
+}
